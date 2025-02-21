@@ -2,7 +2,7 @@
 
 I'm a huge game ethusianst and I code! I have pretty much been playing games my entire life and I'm at the point where I want to see my own ideas imagined. Games like AdventureQuest Worlds was one of the first games I ever played. It was pretty cool to see my character move across the screen and watch him level up. Games these days have taken that charm and gone above and beyond. 
 
-Here I am at the University of Illinois Chicago learning all I can to code and develop a program. I'm hoping to eventually learn enough to develop whatever I put my mind to.
+Here I am at the University of Illinois Chicago learning all I can to code and develop programs. I'm hoping to eventually learn enough to develop whatever I put my mind to.
 
 I'm currently working with HTML and Quantify, the project I'm working on, has alot of it.
 
