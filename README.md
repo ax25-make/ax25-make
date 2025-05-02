@@ -18,5 +18,10 @@ I'm working with HTML and Quantify, and the project I'm working on, has a lot of
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
+## Goals
+
+I'm currently working on learning more TypeScript and am aiming to become a full-stack developer.
+
+
 ## Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ax25-make&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
